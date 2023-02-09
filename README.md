@@ -12,11 +12,7 @@ For automating the versioning of the maven project we are using the plugin `vers
 ```
 
 
-
-
-
-
-##HOW IT WORKS
+## HOW IT WORKS
 
 
 We use to following properties to help us on incrementing the version values
